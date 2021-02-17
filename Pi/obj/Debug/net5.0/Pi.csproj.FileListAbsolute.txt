@@ -1,0 +1,16 @@
+D:\GitHub\cool-algorithms-study\Pi\bin\Debug\net5.0\Pi.exe
+D:\GitHub\cool-algorithms-study\Pi\bin\Debug\net5.0\Pi.deps.json
+D:\GitHub\cool-algorithms-study\Pi\bin\Debug\net5.0\Pi.runtimeconfig.json
+D:\GitHub\cool-algorithms-study\Pi\bin\Debug\net5.0\Pi.runtimeconfig.dev.json
+D:\GitHub\cool-algorithms-study\Pi\bin\Debug\net5.0\Pi.dll
+D:\GitHub\cool-algorithms-study\Pi\bin\Debug\net5.0\ref\Pi.dll
+D:\GitHub\cool-algorithms-study\Pi\bin\Debug\net5.0\Pi.pdb
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.csprojAssemblyReference.cache
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.AssemblyInfoInputs.cache
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.AssemblyInfo.cs
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.csproj.CoreCompileInputs.cache
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.dll
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\ref\Pi.dll
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.pdb
+D:\GitHub\cool-algorithms-study\Pi\obj\Debug\net5.0\Pi.genruntimeconfig.cache
