@@ -20,12 +20,10 @@ namespace Pi
 
             for( int i =0; i < n; i += 1)
             {
-                int x = rnd.Next(0, 2);
-                int y = rnd.Next(0, 2);
+                double x = rnd.NextDouble();
+                double y = rnd.NextDouble();
 
-                //Console.WriteLine($"randoms at cycle {i}: x:{x} y:{y}");
-
-                decimal distance = x*x + y*y;
+                double distance = Math.Pow(x, 2) + Math.Pow(y, 2);
 
                 if(distance <= 1)
                 {
@@ -41,7 +39,7 @@ namespace Pi
             Console.WriteLine($"Points inside circle: {pointCircle.ToString()}");
             Console.WriteLine($"Total Points: {pointTotal.ToString()}");
 
-            return Math.Round(pi, 3);
+            return pi;
         }
     }
 }
